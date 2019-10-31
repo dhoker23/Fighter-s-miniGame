@@ -1,0 +1,7 @@
+C:\Users\Yra\Desktop\кирилл\Кодинг\обучение\C#\Fighter's MiniGame\Fighter's MiniGame\bin\Debug\Fighter's MiniGame.exe.config
+C:\Users\Yra\Desktop\кирилл\Кодинг\обучение\C#\Fighter's MiniGame\Fighter's MiniGame\bin\Debug\Fighter's MiniGame.exe
+C:\Users\Yra\Desktop\кирилл\Кодинг\обучение\C#\Fighter's MiniGame\Fighter's MiniGame\bin\Debug\Fighter's MiniGame.pdb
+C:\Users\Yra\Desktop\кирилл\Кодинг\обучение\C#\Fighter's MiniGame\Fighter's MiniGame\obj\Debug\Fighter's MiniGame.csprojAssemblyReference.cache
+C:\Users\Yra\Desktop\кирилл\Кодинг\обучение\C#\Fighter's MiniGame\Fighter's MiniGame\obj\Debug\Fighter's MiniGame.csproj.CoreCompileInputs.cache
+C:\Users\Yra\Desktop\кирилл\Кодинг\обучение\C#\Fighter's MiniGame\Fighter's MiniGame\obj\Debug\Fighter's MiniGame.exe
+C:\Users\Yra\Desktop\кирилл\Кодинг\обучение\C#\Fighter's MiniGame\Fighter's MiniGame\obj\Debug\Fighter's MiniGame.pdb
